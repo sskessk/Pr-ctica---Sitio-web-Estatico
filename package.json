@@ -1,0 +1,23 @@
+{
+  "name": "pr-ctica---sitio-web-estatico",
+  "version": "1.0.0",
+  "description": "Trabajo que se entrega sabado 23 de mayo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sskessk/Pr-ctica---Sitio-web-Estatico.git"
+  },
+  "author": "Osiel Isaac Marquez Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sskessk/Pr-ctica---Sitio-web-Estatico/issues"
+  },
+  "homepage": "https://github.com/sskessk/Pr-ctica---Sitio-web-Estatico#readme"
+}
